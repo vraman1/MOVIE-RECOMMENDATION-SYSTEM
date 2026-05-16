@@ -1,1 +1,1 @@
-python review3_v1.py --csv data/hybrid_dataset.csv --user_id 5 --top_n 10
+python review3_v1.py --csv hybrid_dataset.csv --user_id 5 --top_n 10
